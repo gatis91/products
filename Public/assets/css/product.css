@@ -1,0 +1,15 @@
+
+body{
+    background-color: aliceblue;
+}
+
+.formContainer{
+    min-height: 100%;
+    margin-bottom: 0px;
+    background: grey;    
+}
+
+
+.hidechk{
+    display: none;
+}
